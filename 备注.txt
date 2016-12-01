@@ -1,0 +1,28 @@
+开发环境：windows7  python2.7.9  scrapy 1.2.1  mongodb3.2.11  selenium3.0.2
+数据库名：pbc  集合名：rate
+
+
+除了日元是：100日元对应**元人民币，其他均为1单位外币对应**元人民币。
+
+数据库字段解释：
+日期: Date 
+美元: Dollar 
+欧元: Euro 
+日元: Yen  
+港元: HKD  
+英镑: Pound 
+澳大利亚元: AUD 
+新西兰元: NZD  
+新加坡元: SGD 
+瑞士法郎: SF  
+加拿大元: CAD   
+林吉特: Ringgit 
+俄罗斯卢布: RUB  
+南非兰特: Rand 
+韩元: KRW
+阿联酋迪拉姆: AED
+沙特里亚尔: SR
+
+
+links.txt是爬取到的所有链接信息
+rate.txt是爬取到的所有汇率信息
